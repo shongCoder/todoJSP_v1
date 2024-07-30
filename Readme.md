@@ -47,6 +47,8 @@ todo 제목 : title(문자열)
 - 입력 : 없음
 - 반환 : 총 데이터 건수(int)
 
+- - -
+
 # 웹 개발
 ## 컨트롤러 생성
 목록 : TodoListController(GET)
@@ -59,7 +61,9 @@ todo 제목 : title(문자열)
 - 실패한 경우?
 삭제 : TodoDeleteController(POST)
 - 리다이렉션(목록화면)
-- 실패한 경우? 
+- 실패한 경우?
+
+- - - 
 
 # 화면 개발
 ## JSP
@@ -67,6 +71,8 @@ todo 제목 : title(문자열)
 등록화면 : register.jsp
 조회화면 : get.jsp
 수정/삭제 화면 : edit.jsp
+
+- - -
 
 # 추가 개발
 조회화면에서 목록화면 가기 -> 보던 페이지로
