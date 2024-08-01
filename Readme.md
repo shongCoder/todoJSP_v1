@@ -55,13 +55,10 @@ todo 제목 : title(문자열)
 - 페이징
 등록 : TodoRegisterController(GET/POST)
 - 리다이렉션(조회화면 ?tno=)
-- 실패한 경우?
 조회/수정: TodoGetEditController(GET/POST)
 - 수정 시 리다이렉션(조회화면 ?tno=)
-- 실패한 경우?
 삭제 : TodoDeleteController(POST)
 - 리다이렉션(목록화면)
-- 실패한 경우?
 
 - - - 
 
